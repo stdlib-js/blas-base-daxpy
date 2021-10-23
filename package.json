@@ -46,13 +46,14 @@
     "@stdlib/utils-try-require": "^0.0.x"
   },
   "devDependencies": {
+    "@stdlib/array-filled-by": "^0.0.x",
     "@stdlib/array-float64": "^0.0.x",
     "@stdlib/assert-is-browser": "^0.0.x",
     "@stdlib/bench": "^0.0.x",
     "@stdlib/math-base-assert-is-nan": "^0.0.x",
     "@stdlib/math-base-special-floor": "^0.0.x",
     "@stdlib/math-base-special-pow": "^0.0.x",
-    "@stdlib/math-base-special-round": "^0.0.x",
+    "@stdlib/random-base-discrete-uniform": "^0.0.x",
     "@stdlib/random-base-randu": "^0.0.x",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
