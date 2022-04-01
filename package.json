@@ -1,0 +1,40 @@
+{
+  "name": "@stdlib/blas-base-daxpy",
+  "version": "0.0.0",
+  "description": "Multiply a vector x by a constant and add the result to y.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/blas-base-daxpy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "blas",
+    "level 1",
+    "daxpy",
+    "linear",
+    "algebra",
+    "subroutines",
+    "add",
+    "alpha",
+    "vector",
+    "array",
+    "ndarray",
+    "float64",
+    "double",
+    "float64array"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
