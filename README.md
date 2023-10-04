@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import daxpy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-daxpy@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/blas-base-daxpy/tags). For example,
+
+```javascript
 import daxpy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-daxpy@v0.1.1-esm/index.mjs';
 ```
 
@@ -165,7 +170,7 @@ daxpy.ndarray( 3, alpha, x, 2, 1, y, -1, y.length-1 );
 
 var discreteUniform = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform' ).factory;
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@esm/index.mjs';
-import daxpy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-daxpy@v0.1.1-esm/index.mjs';
+import daxpy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-daxpy@esm/index.mjs';
 
 var x = filledarrayBy( 10, 'float64', discreteUniform( 0, 100 ) );
 console.log( x );
