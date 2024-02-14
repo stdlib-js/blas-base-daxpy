@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import daxpy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-daxpy@esm/index.mjs';
+import daxpy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-daxpy@v0.2.0-esm/index.mjs';
 ```
 
 #### daxpy( N, alpha, x, strideX, y, strideY )
@@ -164,7 +164,7 @@ daxpy.ndarray( 3, alpha, x, 2, 1, y, -1, y.length-1 );
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import daxpy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-daxpy@esm/index.mjs';
+import daxpy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-daxpy@v0.2.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
