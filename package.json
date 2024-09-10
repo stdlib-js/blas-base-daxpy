@@ -1,7 +1,7 @@
 {
   "name": "@stdlib/blas-base-daxpy",
   "version": "0.3.0",
-  "description": "Multiply a vector x by a constant and add the result to y.",
+  "description": "Multiply a vector `x` by a constant and add the result to `y`.",
   "license": "Apache-2.0",
   "author": {
     "name": "The Stdlib Authors",
@@ -60,8 +60,6 @@
     "@stdlib/math-base-special-pow": "^0.3.0",
     "@stdlib/random-array-discrete-uniform": "^0.2.1",
     "@stdlib/random-array-uniform": "^0.2.1",
-    "@stdlib/strided-base-min-view-buffer-index": "^0.2.2",
-    "@stdlib/strided-base-offset-view": "^0.2.2",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
