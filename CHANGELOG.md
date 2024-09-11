@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-10)
+## Unreleased (2024-09-11)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`e8fd916`](https://github.com/stdlib-js/stdlib/commit/e8fd916df0a473709b2ef1caec858f4ca8187720) - **refactor:** use utility to resolve the first indexed element _(by Athan Reines)_
+-   [`18deecf`](https://github.com/stdlib-js/stdlib/commit/18deecf00e8d7a8069c0ebfe69a4479c249c98d4) - **refactor:** reduce code duplication by calling \"ndarray\" API _(by Athan Reines)_
 -   [`44ebe3c`](https://github.com/stdlib-js/stdlib/commit/44ebe3cfc43a0518991823f98e2e6d96632a0d26) - **docs:** document C API _(by Athan Reines)_
 -   [`ae54d13`](https://github.com/stdlib-js/stdlib/commit/ae54d13ecd92912dea70b2d31525d7f54c3a26f1) - **feat:** add C \"ndarray\" API _(by Athan Reines)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
