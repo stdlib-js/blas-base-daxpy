@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-17)
+## Unreleased (2024-09-18)
 
 <section class="features">
 
 ### Features
 
+-   [`e85f394`](https://github.com/stdlib-js/stdlib/commit/e85f3947aaca3cbbd6ab4f84e41577928e0a10a4) - add C `ndarray` implementation for `blas/base/saxpy` [(#2918)](https://github.com/stdlib-js/stdlib/pull/2918)
 -   [`ae54d13`](https://github.com/stdlib-js/stdlib/commit/ae54d13ecd92912dea70b2d31525d7f54c3a26f1) - add C \"ndarray\" API
 
 </section>
@@ -22,6 +23,7 @@
 
 <details>
 
+-   [`e85f394`](https://github.com/stdlib-js/stdlib/commit/e85f3947aaca3cbbd6ab4f84e41577928e0a10a4) - **feat:** add C `ndarray` implementation for `blas/base/saxpy` [(#2918)](https://github.com/stdlib-js/stdlib/pull/2918) _(by Aman Bhansali)_
 -   [`11889ca`](https://github.com/stdlib-js/stdlib/commit/11889ca2921a6858079c84e21a11d14ee461161f) - **docs:** fix example _(by Athan Reines)_
 -   [`2aae52e`](https://github.com/stdlib-js/stdlib/commit/2aae52ed394469a4252a6318fe4d933f09f28ab3) - **refactor:** move `ndarray` API to separate source file _(by Athan Reines)_
 -   [`e8fd916`](https://github.com/stdlib-js/stdlib/commit/e8fd916df0a473709b2ef1caec858f4ca8187720) - **refactor:** use utility to resolve the first indexed element _(by Athan Reines)_
@@ -40,8 +42,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Aman Bhansali
 -   Athan Reines
 
 </section>
