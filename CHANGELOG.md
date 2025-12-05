@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-22)
+## Unreleased (2025-12-05)
 
 <section class="features">
 
@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`30ab067`](https://github.com/stdlib-js/stdlib/commit/30ab067adba7be2a54c72df42b3ff6b1ae72f304) - **bench:** refactor to use dynamic memory allocation in `blas/base/daxpy` [(#8680)](https://github.com/stdlib-js/stdlib/pull/8680) _(by Faraz Ghani, Athan Reines)_
 -   [`11f3cfa`](https://github.com/stdlib-js/stdlib/commit/11f3cfa5a658d7cb105aeb2578b7d72ea62f1e97) - **refactor:** update include header guards for double precision real packages [(#7711)](https://github.com/stdlib-js/stdlib/pull/7711) _(by Shabareesh Shetty)_
 -   [`7c9afed`](https://github.com/stdlib-js/stdlib/commit/7c9afed6a288c9e7d3048dfa0ac8f085759d73f4) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`09c9ceb`](https://github.com/stdlib-js/stdlib/commit/09c9ceb58c6dd23c10f1980094851983c57d693f) - **chore:** fix formatting _(by Athan Reines)_
@@ -49,10 +50,11 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aman Bhansali
 -   Athan Reines
+-   Faraz Ghani
 -   Philipp Burckhardt
 -   Shabareesh Shetty
 
