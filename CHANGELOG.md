@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-24)
+## Unreleased (2026-05-27)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`8ff59d6`](https://github.com/stdlib-js/stdlib/commit/8ff59d63eaa88d252f5404e3b3affdf5c66821d5) - **chore:** propagate `blas/*` JSDoc and `cscal` header fixes to siblings [(#12318)](https://github.com/stdlib-js/stdlib/pull/12318) _(by Philipp Burckhardt)_
 -   [`25a83a9`](https://github.com/stdlib-js/stdlib/commit/25a83a9791bb03905fa36e7905d5a8551417f578) - **bench:** refactor to use string interpolation in `blas/base/daxpy` [(#10409)](https://github.com/stdlib-js/stdlib/pull/10409) _(by Shubham)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Philipp Burckhardt
 -   Shubham
 
 </section>
